@@ -15,7 +15,7 @@ This project performs **exploratory data analysis (EDA)** on the `netflix_data.c
 ## 📁 Files Included
 
 - `netflix_data.csv`: Netflix titles dataset with columns like type, genre, duration, and release year.
-- `netflix_1990s_analysis.py`: Python script containing all analysis and visualization code.
+- `notebook.ipynb`: Jupyter Notebook containing all analysis and visualization code.
 - `README.md`: This file, explaining the project purpose.
 
 ---

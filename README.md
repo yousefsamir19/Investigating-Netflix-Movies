@@ -1,5 +1,3 @@
-# Investigating-Netflix-Movies
-Python project analyzing Netflix movies from the 1990s to explore duration trends and short Action movies.
 # 🎬 Netflix 1990s Movie Duration Analysis
 
 This project performs **exploratory data analysis (EDA)** on the `netflix_data.csv` dataset to better understand **movies from the 1990s decade**.
@@ -18,7 +16,7 @@ This project performs **exploratory data analysis (EDA)** on the `netflix_data.c
 
 - `netflix_data.csv`: Netflix titles dataset with columns like type, genre, duration, and release year.
 - `netflix_1990s_analysis.py`: Python script containing all analysis and visualization code.
-- `README.md`: This file, explaining the project purpose and how to run it.
+- `README.md`: This file, explaining the project purpose.
 
 ---
 
@@ -45,6 +43,6 @@ A histogram shows the distribution of movie durations (X-axis: minutes, Y-axis: 
 
 ## 🛠 Technologies Used
 
-- Python 3.x
+- numpy
 - pandas
 - matplotlib
